@@ -1,4 +1,4 @@
-/Lista2/*.exe
-/Lista3/*.exe
+**/Lista2/*.exe
+**/Lista3/*.exe
 
 

@@ -6,7 +6,7 @@
 using namespace std;
 
 
-int main()
+int main(int argc, char const *argv[])
 {
     cout<<"Escolha uma  opcao pra viajar: "<<endl;
     cout<<" ==== DESTINOS ========"<<"====== IDA ======= IDA E VOLTA"<<endl; 

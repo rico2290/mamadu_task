@@ -1,10 +1,10 @@
 #include <iostream>
 #include <cmath>
-#include <unistd.h>
+#include <string>
 
 using namespace std;
 
-int main(int argc, char const *argv[])
+int main()
 {
 	
 	int posicao_inicial;
