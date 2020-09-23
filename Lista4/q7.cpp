@@ -18,18 +18,14 @@ bool coPrimo (int a, int b){
 	}
 
 	for (int i = 1; i <= maior; i++){
-		if (( a % i ) == 0 ){
+		if (( a % i ) == 0 && ( b % i ) == 0 ){
 			cont = cont + 1;
 		}
-		if(( b % i ) == 0){
-		    cont = cont + 1;
-		}
-		//Um N primo só divide ele mesmo e 1. 
-		if ((cont / 2) >= 3){
-			return false;
-		}
 	}
-	return true;
+	if (cont == 1){
+		return true;
+	}
+	return false;
 
 
 }
