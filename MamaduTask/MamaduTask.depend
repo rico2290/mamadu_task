@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1600878723 source:c:\users\iva\downloads\mamadutask\questao5.cpp
+	"questao5.h"
+	<cmath>
+
+1600877954 c:\users\iva\downloads\mamadutask\questao5.h
+
+1600910527 source:c:\users\iva\downloads\mamadutask\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"questao1.h"
+	"questao2.h"
+	"questao3.h"
+	"questao4.h"
+	"questao5.h"
+	"questao6.h"
+	"questao7.h"
+	"questao8.h"
+	"questao9.h"
+	"questao10.h"
+	"questao11.h"
+	"questao12.h"
+	"questao13.h"
+
+1600883378 c:\users\iva\downloads\mamadutask\questao1.h
+
+1600883403 source:c:\users\iva\downloads\mamadutask\questao1.cpp
+	"questao1.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1600884110 c:\users\iva\downloads\mamadutask\questao2.h
+
+1600884087 source:c:\users\iva\downloads\mamadutask\questao2.cpp
+	"questao2.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1600884304 c:\users\iva\downloads\mamadutask\questao4.h
+
+1600884547 source:c:\users\iva\downloads\mamadutask\questao4.cpp
+	"questao1.h"
+	<iostream>
+	<cmath>
+
+1600887125 source:c:\users\iva\downloads\mamadutask\questao7.cpp
+	"questao7.h"
+	<iostream>
+	<cmath>
+
+1600884887 c:\users\iva\downloads\mamadutask\questao7.h
+
+1600887706 source:c:\users\iva\downloads\mamadutask\questao6.cpp
+	"questao6.h"
+	<iostream>
+	<cmath>
+
+1600887445 c:\users\iva\downloads\mamadutask\questao6.h
+
+1600899263 c:\users\iva\downloads\mamadutask\questao3.h
+
+1600900830 source:c:\users\iva\downloads\mamadutask\questao3.cpp
+	"questao3.h"
+	<iostream>
+	<cmath>
+
+1600901803 c:\users\iva\downloads\mamadutask\questao8.h
+
+1600903561 source:c:\users\iva\downloads\mamadutask\questao8.cpp
+	"questao8.h"
+	<iostream>
+	<cmath>
+
+1600904205 c:\users\iva\downloads\mamadutask\questao9.h
+
+1600904418 source:c:\users\iva\downloads\mamadutask\questao9.cpp
+	"questao9.h"
+	<iostream>
+	<cmath>
+
+1600905256 source:c:\users\iva\downloads\mamadutask\questao10.cpp
+	"questao10.h"
+	<iostream>
+	<cmath>
+
+1600905103 c:\users\iva\downloads\mamadutask\questao10.h
+
+1600905801 c:\users\iva\downloads\mamadutask\questao11.h
+
+1600906878 source:c:\users\iva\downloads\mamadutask\questao11.cpp
+	"questao11.h"
+	<iostream>
+	<cmath>
+
+1600909430 source:c:\users\iva\downloads\mamadutask\questao12.cpp
+	"questao12.h"
+	<iostream>
+	<cmath>
+
+1600907142 c:\users\iva\downloads\mamadutask\questao12.h
+
+1600910556 source:c:\users\iva\downloads\mamadutask\questao13.cpp
+	"questao13.h"
+	<iostream>
+	<cmath>
+
+1600909657 c:\users\iva\downloads\mamadutask\questao13.h
+

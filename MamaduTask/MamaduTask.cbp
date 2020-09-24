@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MamaduTask" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MamaduTask" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MamaduTask" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="main.cpp" />
+		<Unit filename="questa8.h" />
+		<Unit filename="questao1.cpp" />
+		<Unit filename="questao1.h" />
+		<Unit filename="questao10.cpp" />
+		<Unit filename="questao10.h" />
+		<Unit filename="questao11.cpp" />
+		<Unit filename="questao11.h" />
+		<Unit filename="questao12.cpp" />
+		<Unit filename="questao12.h" />
+		<Unit filename="questao13.cpp" />
+		<Unit filename="questao13.h" />
+		<Unit filename="questao2.cpp" />
+		<Unit filename="questao2.h" />
+		<Unit filename="questao3.cpp" />
+		<Unit filename="questao3.h" />
+		<Unit filename="questao4.cpp" />
+		<Unit filename="questao4.h" />
+		<Unit filename="questao5.cpp" />
+		<Unit filename="questao5.h" />
+		<Unit filename="questao6.cpp" />
+		<Unit filename="questao6.h" />
+		<Unit filename="questao7.cpp" />
+		<Unit filename="questao7.h" />
+		<Unit filename="questao8.cpp" />
+		<Unit filename="questao8.h" />
+		<Unit filename="questao9.cpp" />
+		<Unit filename="questao9.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
